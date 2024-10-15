@@ -7,17 +7,17 @@ Creating a high-growth and high-risk portfolio using the yfinance api and FRED a
   - Sharpe Ratio: 1.18
 <img width="815" alt="Screenshot 2024-10-15 at 1 16 46 PM" src="https://github.com/user-attachments/assets/72870c3e-2824-4fa7-864b-28809f57c7d0">
 ## Stocks used
-  - Microsoft (MSFT)
-  - Apple (AAPL)
-  - Johnson & Johnson (JNJ)
-  - Tesla (TSLA)
-  - Nvidia (NVDA)
-  - Procter and Gamble Co (PG)
-  - Coca-Cola Co (KO)
-  -  - Alibaba (BABA)
-  - Tencent Holdings (TCEHY)
-  - S&P 500 ETF (SPY)
-  - Vanguard Total Stock Market (VTI)
+- Microsoft (MSFT)
+- Apple (AAPL)
+- Johnson & Johnson (JNJ)
+- Tesla (TSLA)
+- Nvidia (NVDA)
+- Procter and Gamble Co (PG)
+- Coca-Cola Co (KO)
+- Alibaba (BABA)
+- Tencent Holdings (TCEHY)
+- S&P 500 ETF (SPY)
+- Vanguard Total Stock Market (VTI)
 ## Optimal Weights
   - AAPL: 0.106929
   - MSFT: 0.000000
