@@ -49,7 +49,7 @@ Although this portfolio produced an large annual return of 46% the volatility ma
   - Expected Return: 19.37%
   - Expected Risk(volatility) 25%
   - Sharpe Ratio: 0.6
-![Portfolio screenshot 2](https://github.com/user-attachments/assets/f811299a-3f70-4c5d-9ed4​)
+![Portfolio screenshot 2](https://github.com/user-attachments/assets/f811299a-3f70-4c5d-9ed4-0096457fbc69)
 ## Stocks Used:
 - META: Meta Platforms Inc. (formerly Facebook)
 - MSFT: Microsoft Corporation
