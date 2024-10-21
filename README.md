@@ -1,5 +1,5 @@
 # portfolio-optimizaiton
-Creating a high-growth and low-risk portfolio using the yfinance api and FRED api to obtain real world results
+Creating a high-growth portfolio and a low-risk portfolio using the yfinance api and FRED api to obtain real world results
 
 # Portfolio 1: High-risk, High-growth
   - Expected Return: 46%
